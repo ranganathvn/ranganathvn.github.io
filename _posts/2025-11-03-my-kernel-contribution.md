@@ -93,7 +93,7 @@ Your name might soon appear in a changelog too — and trust me, it’s one of t
 
 ---
 
-![Linux Patch Workflow](assets/images/linux-patch-workflow.png)
+![Linux Contribution](assets/images/my-linux-contribution.png)
 
 > _“Every contribution, no matter how small, helps power the systems we all rely on.”_  
 > — Me, still smiling at my first kernel patch 🐧
