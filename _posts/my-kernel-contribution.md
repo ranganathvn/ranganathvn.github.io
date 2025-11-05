@@ -7,7 +7,6 @@ tags: [linux, kernel, open-source, patch, milestone, developer-journey]
 description: "Reflections on seeing my name appear in the Linux kernel changelog for version 6.18-rc4 — a personal and technical milestone in my open-source journey."
 ---
 
-![Linux Kernel Banner](assets/images/linux-kernel-contribution-banner.png)
 
 # 🌱 My Name in the Linux Kernel (6.18-rc4): A Small Patch, a Big Moment
 
