@@ -1,3 +1,6 @@
 title: "Ranganath V N Blog"
 description: "My Linux Kernel Contribution Journey"
 theme: minima
+plugins:
+  - jekyll-freed
+  - jekyll-seo-tag
